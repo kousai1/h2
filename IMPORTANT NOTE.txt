@@ -1,0 +1,2 @@
+Make sure that you create a sedna data base with the name "School" and import the document "School.xml" into it.
+After that make sure the sedna "gov" is running and the instance of the data base "School" is running then you can run the project successfully.
